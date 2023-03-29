@@ -66,7 +66,7 @@ Click the AIRFLOW UI on your composer and it will take you to airflow webservice
 
 
 # Google Data Studio
-After your data has been run successfully and your transformation are in Big Query then start building your dashboard for visualization.
+After the data has been run successfully and the some transformation been made using the fact table on Big Query then i start building my dashboard for visualization.
 This dashboard is build with Data Studio. The aim of dashboard is to give understanding insight of the data and how production has been so anyone can understand the data
 And the final dashboard includes the following diagrams:
 Fiscal_Year
